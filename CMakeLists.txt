@@ -9,4 +9,6 @@ add_executable(clox
         memory.cpp
         debug.cpp
         value.cpp
-        vm.cpp)
+        vm.cpp
+        compiler.cpp
+        scanner.cpp)
